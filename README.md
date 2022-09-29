@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @smod23
-- 👀 I’m interested in Data Engineering, Data Analytics, Machine Learning and Product Management
-- 🌱 I’m currently learning to do end to end projects and deploy them on cloud
-- 💞️ I’m looking to collaborate on Multiple projects
-- 📫 How to reach me 
+- 👀 I’m interested in Machine Learning Engineering and Product Management
+- 🌱 I’m currently learningto build end to end projects and deploy them on cloud
+- 💞️ I’m always open to collaborate on Multiple projects
+- 📫 Reach me@ 
 
 <!---
 smod23/smod23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
